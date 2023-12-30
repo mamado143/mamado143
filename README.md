@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Currently working on:</h2><br>Developing a fitness tracking app and seeking collaborations on e-commerce projects.<br>Looking for help with:<br>Optimizing mobile app performance for scalability.<br><br>Currently learning:<br>Augmented reality (AR) development for enhanced user experiences.<br><br>® Ask me about:<br>Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
+<h2>Currently working on:</h2><br>Developing a fitness tracking app and seeking collaborations on e-commerce projects.<br>Looking for help with:<br>Optimizing mobile app performance for scalability.<br><br>Currently learning:<br>Alx program Foundation levels.<br><br>® Ask me about:<br>Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
 
 
 ## 🌐 Socials:
