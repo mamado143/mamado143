@@ -1,6 +1,26 @@
 # 💫 About Me:
-<h2>Currently working on:</h2><br>Developing a fitness tracking app and seeking collaborations on e-commerce projects.<br>Looking for help with:<br>Optimizing mobile app performance for scalability.<br><br>Currently learning:<br>Alx program Foundation levels.<br><br>® Ask me about:<br>Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
 
+<h2>🚀 Currently working on:</h2>
+<p>
+  I am developing a <b>fitness tracking app</b> and actively seeking collaborations on <b>e-commerce projects</b>.
+</p>
+
+<h2>🔍 Looking for help with:</h2>
+<p>
+  Optimizing mobile app performance and implementing <b>scalable architecture</b>.
+</p>
+
+<h2>🏗️ Currently Building:</h2>
+<p>
+  A specialized <b>App Usage Tracker</b> to help users manage digital wellness.
+</p>
+
+<br>
+
+<h2>🎙️ Ask me about:</h2>
+<p>
+  Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-mohamed-dahir/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@midodahir123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/mr_mohamed_Moh) 
