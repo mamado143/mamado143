@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img width="1280" height="720" alt="70-back-end-web-development-certificate-mohamed-mohamoud" src="https://github.com/user-attachments/assets/aa71c59f-045c-4aae-a8dc-bc61d27f00c7" /># 💫 About Me:
 
 <h2>🚀 Currently working on:</h2>
 <p>
@@ -21,7 +21,8 @@
 <p>
   Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
 </p>
-
+[![Uploading 70-back-end-web-development-certificate-mohamed-mohamoud.png…](certificate)
+]()
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-mohamed-dahir/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@midodahir123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/mr_mohamed_Moh) 
 
