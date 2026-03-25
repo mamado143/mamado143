@@ -45,5 +45,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mamado143&icon=0&color=0)](https://visitcount.itsvg.in)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mr-mohamed-mohamoud" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://so.linkedin.com/in/mr-mohamed-mohamoud?trk=profile-badge">Mr Mohamed Mohamoud</a></div>
+              
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
