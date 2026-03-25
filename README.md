@@ -1,5 +1,5 @@
-<img width="1280" height="720" alt="70-back-end-web-development-certificate-mohamed-mohamoud" src="https://github.com/user-attachments/assets/aa71c59f-045c-4aae-a8dc-bc61d27f00c7" /># 💫 About Me:
-
+# 💫 About Me:
+<img width="1280" height="720" alt="70-back-end-web-development-certificate-mohamed-mohamoud" src="https://github.com/user-attachments/assets/aa71c59f-045c-4aae-a8dc-bc61d27f00c7" />
 <h2>🚀 Currently working on:</h2>
 <p>
   I am developing a <b>fitness tracking app</b> and actively seeking collaborations on <b>e-commerce projects</b>.
@@ -16,6 +16,7 @@
 </p>
 
 <br>
+
 
 <h2>🎙️ Ask me about:</h2>
 <p>
