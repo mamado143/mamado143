@@ -22,7 +22,7 @@
   Mobile app development, UI/UX design, backend integration, databases, and cross-platform frameworks.
 </p>
 [![Uploading 70-back-end-web-development-certificate-mohamed-mohamoud.png…](certificate)
-]()
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-mohamed-dahir/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@midodahir123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/mr_mohamed_Moh) 
 
